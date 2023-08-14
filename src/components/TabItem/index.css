@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.active-tab {
+  color: #2563eb;
+  text-decoration: underline;
+}
+.tab-item {
+  margin-right: 10px;
+}
